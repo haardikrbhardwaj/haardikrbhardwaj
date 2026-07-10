@@ -84,10 +84,10 @@ text, tspan {white-space: pre;}
 <tspan x="390" y="30">hardik@bhardwaj</tspan> -———————————————————————————————————————————-—-
 <tspan x="390" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">macOS, iOS, Linux</tspan>
 <tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value" id="age_data">21 years, 0 months, 29 days</tspan>
-<tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Skills</tspan>.<tspan class="key">Languages</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">C#, Python, Swift, C++, TypeScript</tspan>
-<tspan x="390" y="110" class="cc">. </tspan><tspan class="key">Skills</tspan>.<tspan class="key">Backend</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">ASP.NET, .NET, Node.js, Express.js</tspan>
+<tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Skills</tspan>.<tspan class="key">Languages</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">C#, Python, Java, Swift, TypeScript</tspan>
+<tspan x="390" y="110" class="cc">. </tspan><tspan class="key">Skills</tspan>.<tspan class="key">Backend</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">ASP.NET, Spring Boot, Node.js, REST</tspan>
 <tspan x="390" y="130" class="cc">. </tspan><tspan class="key">Skills</tspan>.<tspan class="key">Cloud</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">Azure, AWS, CI/CD, Git</tspan>
-<tspan x="390" y="150" class="cc">. </tspan><tspan class="key">Skills</tspan>.<tspan class="key">Database</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">PostgreSQL, SQL Server, MongoDB</tspan>
+<tspan x="390" y="150" class="cc">. </tspan><tspan class="key">Skills</tspan>.<tspan class="key">Database</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">PostgreSQL, MySQL, MongoDB, Firebase</tspan>
 <tspan x="390" y="170" class="cc">. </tspan><tspan class="key">Skills</tspan>.<tspan class="key">Testing</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">xUnit, NUnit, Automated Testing</tspan>
 <tspan x="390" y="190" class="cc">. </tspan><tspan class="key">Skills</tspan>.<tspan class="key">Concepts</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">OOP, SOLID, MVC, Agile, Microservices</tspan>
 <tspan x="390" y="210" class="cc">. </tspan><tspan class="key">Skills</tspan>.<tspan class="key">Mobile</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">React.js, SwiftUI, Flutter, MVVM</tspan>
