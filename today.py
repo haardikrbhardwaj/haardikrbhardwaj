@@ -315,6 +315,8 @@ def user_getter(username):
     }'''
     variables = {'login': username}
     request = simple_request(user_getter.__name__, query, variables)
+    if request.json()['data']['user'] is None:
+        raise Exception(f'GitHub user "{username}" not found. Check your USER_NAME secret (current value: "{username}")')
     return {'id': request.json()['data']['user']['id']}, request.json()['data']['user']['createdAt']
 
 
