@@ -13,7 +13,7 @@ HEADERS = {'authorization': 'token ' + os.environ['ACCESS_TOKEN']}
 USER_NAME = os.environ['USER_NAME']  # 'haardikrbhardwaj'
 
 # Set your birthday here, or override via BIRTHDAY env var (format: YYYY-MM-DD)
-_birthday_str = os.environ.get('BIRTHDAY', '2005-06-11')
+_birthday_str = os.environ.get('BIRTHDAY') or '2005-06-11'
 BIRTHDAY = datetime.datetime.strptime(_birthday_str, '%Y-%m-%d')
 
 QUERY_COUNT = {'user_getter': 0, 'follower_getter': 0, 'graph_repos_stars': 0, 'recursive_loc': 0, 'graph_commits': 0, 'loc_query': 0}
