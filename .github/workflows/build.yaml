@@ -25,6 +25,12 @@ jobs:
           restore-keys: ${{ runner.os }}-pip-
       - name: Install dependencies
         run: python -m pip install -r cache/requirements.txt
+      - name: Check token is set
+        env:
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+        run: |
+          if [ -z "$ACCESS_TOKEN" ]; then echo "ERROR: ACCESS_TOKEN secret is empty or not set"; exit 1; fi
+          echo "ACCESS_TOKEN length: ${#ACCESS_TOKEN}"
       - name: Update README SVGs
         env:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
