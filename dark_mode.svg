@@ -83,7 +83,7 @@ text, tspan {white-space: pre;}
 <text x="390" y="30" fill="#c9d1d9">
 <tspan x="390" y="30">hardik@bhardwaj</tspan> -———————————————————————————————————————————-—-
 <tspan x="390" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">macOS, iOS, Linux</tspan>
-<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value" id="age_data">21 years, 1 month, 2 days</tspan>
+<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value" id="age_data">21 years, 1 month, 3 days</tspan>
 <tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Skills</tspan>.<tspan class="key">Languages</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">C#, Python, Java, Swift, TypeScript</tspan>
 <tspan x="390" y="110" class="cc">. </tspan><tspan class="key">Skills</tspan>.<tspan class="key">Backend</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">ASP.NET, Spring Boot, Node.js, REST</tspan>
 <tspan x="390" y="130" class="cc">. </tspan><tspan class="key">Skills</tspan>.<tspan class="key">Cloud</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">Azure, AWS, CI/CD, Git</tspan>
