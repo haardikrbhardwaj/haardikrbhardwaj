@@ -30,4 +30,4 @@
 
 <p align="center"><a href="https://github.com/haardikrbhardwaj">GitHub</a></p>
 
-<p align="center"><sub>Hardik bhardwaj · Contribution city generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+</sub></p>
